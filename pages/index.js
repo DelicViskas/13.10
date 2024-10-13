@@ -28,6 +28,8 @@ export default function Home() {
       >
         <main className={styles.main}>
         hi NEXTJS!!
+        <br/>
+        УРА!!
           <Image
             className={styles.logo}
             src="https://nextjs.org/icons/next.svg"
